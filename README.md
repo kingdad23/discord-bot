@@ -1,1 +1,1 @@
-# discord-bot
+discontinued project
